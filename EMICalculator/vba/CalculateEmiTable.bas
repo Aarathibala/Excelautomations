@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module_CalculateEMI"
+Attribute VB_Name = "CalculateEMI"
 Option Explicit
 '====================================================
 ' Project     : EMI Calculator
