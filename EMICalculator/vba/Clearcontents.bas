@@ -1,4 +1,4 @@
-Attribute VB_Name = "Clearcontents"
+Attribute VB_Name = "Module_ClearContents"
 Option Explicit
 '====================================================
 ' Project     : EMI Calculator
